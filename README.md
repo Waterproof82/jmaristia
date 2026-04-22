@@ -130,14 +130,61 @@ Sistema SaaS completo con soporte multi-tenant, seguridad de nivel empresarial e
 
 ---
 
-### 📱 QR iBar — Sistema SaaS Propio
-> En producción con clientes reales desde 2021
+### 📲 QR iBar — Plataforma SaaS de Carta Digital Inteligente
+> En producción con clientes reales desde 2021 · Evolución continua
 
-- App **Flutter** (iOS · Android · Web) con arquitectura **MVVM**
-- Backend completo en **Firebase** (Auth · Firestore · Storage · Functions)
-- Gestión de menús digitales QR, pedidos en tiempo real y administración multi-usuario
-- Desplegado, escalable y con excelente feedback de clientes
+Plataforma SaaS completa de **carta digital multiusuario e interactiva**, diseñada para optimizar la operativa de restaurantes mediante automatización, tiempo real y enfoque en conversión.
 
+**⚡ Core del sistema**
+- Carta digital QR autogestionable (productos, categorías, salas y mesas)
+- Pedidos en tiempo real enviados directamente a **Barra y Cocina**
+- Sistema multiusuario con interacción simultánea por mesa o grupo
+- Historial completo de pedidos y control de usuarios conectados
+
+**🚀 Optimización operativa**
+- Eliminación de tiempos de espera del cliente
+- Incremento del ticket medio mediante pedidos autónomos
+- Interconexión de múltiples dispositivos en cocina/barra
+- Flujo de pedidos totalmente automatizado sin intervención del camarero
+
+**💰 Sistema de cobro & experiencia**
+- Compatible con cualquier sistema de caja (POS)
+- Envío de tickets y facturas por email (paperless)
+- Mejora de propinas mediante experiencia digital optimizada
+
+**📢 Motor de ventas integrado**
+- Promoción dinámica de productos mediante:
+  - Imágenes
+  - Vídeos
+  - Descripciones enriquecidas
+- Activación/desactivación de productos en tiempo real
+- Gestión de productos perecederos y campañas instantáneas
+
+**📊 Analítica avanzada**
+- Estadísticas de ventas
+- Productos más vendidos
+- Clientes frecuentes
+- Pedidos procesados / cancelados
+- Métricas clave para toma de decisiones
+
+**🌐 Ecosistema extendido**
+- Plataforma web para visibilidad de restaurantes
+- Búsqueda por ubicación
+- Pedidos para recoger o a domicilio
+
+**📱 App complementaria**
+- Notificaciones push (ofertas, menú del día, promociones)
+- Guardado de favoritos y métodos de pago (1 clic)
+- Historial de pedidos
+- Pedidos remotos (sin estar en el local)
+- Sistema de fidelización con descuentos
+
+**🏗️ Stack tecnológico**
+- Flutter (Web · iOS · Android)
+- Firebase (Auth · Firestore · Realtime DB · Storage · Functions)
+- Arquitectura MVVM + Clean Architecture
+
+> Un sistema diseñado no solo para digitalizar la carta, sino para convertirla en una **herramienta activa de ventas y optimización operativa**.
 ---
 
 ## 🛠️ Tecnologías & Herramientas
